@@ -1,2 +1,2 @@
 affinity.so:
-  gcc --shared -fPIC -o affinity.so affinity.c
+	gcc --shared -fPIC -o affinity.so affinity.c
